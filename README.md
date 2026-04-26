@@ -63,4 +63,19 @@ It helps learners understand:
 For educational and authorized use only.
 
 
+# Network Sniffer Demo
+`network_sniffer_demo.py` is an educational Python script designed to demonstrate how network traffic capture and packet analysis work.
+It helps learners understand:
+* Raw socket programming
+* Ethernet frame analysis
+* IPv4 packet parsing
+* TCP, UDP, and ICMP protocol inspection
+* Packet payload analysis
+## Features
+* Captures live network traffic
+* Parses multiple protocol layers
+* Displays packet headers and payload data
+* Works on Linux and Windows (with privileges)
+## Disclaimer
+For educational and authorized use only.
 
