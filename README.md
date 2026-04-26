@@ -76,6 +76,23 @@ It helps learners understand:
 * Parses multiple protocol layers
 * Displays packet headers and payload data
 * Works on Linux and Windows (with privileges)
+* ## Disclaimer
+For educational and authorized use only.
+
+
+# File Encryption Demo
+`file_encryption_demo.py` is an educational Python script designed to demonstrate file encryption and decryption processes while raising awareness about ransomware threats.
+It helps learners understand:
+* Symmetric encryption with Fernet
+* File encryption and decryption workflows
+* Ransomware behavior simulation
+* Cybersecurity awareness and prevention
+## Features
+* Creates a safe test environment
+* Encrypts and decrypts sample files
+* Generates a simulated ransom note
+* Uses secure symmetric encryption
 ## Disclaimer
 For educational and authorized use only.
+
 
