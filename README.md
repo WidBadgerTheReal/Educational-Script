@@ -30,3 +30,20 @@ Real-time statistics and monitoring
 Disclaimer
 For educational and authorized testing purposes only.
 
+
+# Port Scanner Demo
+`port_scanner_demo.py` is an educational Python script designed to demonstrate basic port scanning and service detection techniques.
+It helps learners understand:
+* TCP socket connections
+* Open port detection
+* Common network services identification
+* Basic network enumeration concepts
+## Features
+* Scans custom port ranges
+* Detects open ports
+* Identifies common services
+* Displays scan summary
+## Disclaimer
+For educational and authorized use only.
+
+
