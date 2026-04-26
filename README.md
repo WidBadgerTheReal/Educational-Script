@@ -46,4 +46,21 @@ It helps learners understand:
 ## Disclaimer
 For educational and authorized use only.
 
+# Password Security Demo
+`password_security_demo.py` is an educational Python script designed to demonstrate common password cracking techniques and improve cybersecurity awareness.
+It helps learners understand:
+* Dictionary attacks
+* Brute-force attacks
+* Hybrid attack techniques
+* Password hashing algorithms
+* Password security best practices
+## Features
+* Supports multiple hash algorithms
+* Includes dictionary, brute-force, and hybrid modes
+* Provides performance statistics
+* Includes a built-in demonstration mode
+## Disclaimer
+For educational and authorized use only.
+
+
 
